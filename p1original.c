@@ -4,6 +4,7 @@ int input(int *a,int *b)
   printf("enter the value\n");
   scanf("%d%d",a,b);
 }
+q
 
 int add(int a,int b,int *sum)
 {
